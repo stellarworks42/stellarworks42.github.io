@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: March 5, 2026**
+**Last updated: March 20, 2026**
 
 This Privacy Policy describes how **StellarWorks** ("we", "our", or "us") handles information in the **OrbitTimer** mobile application (the "App").
 
@@ -21,6 +21,8 @@ The App utilizes third-party services that may collect data for specific purpose
 
 ### 3. Device Features and Permissions
 To provide its core functionality, the App requires access to certain device features:
+- **Notifications:** Sending alerts to your device to notify you of timer events, such as section transitions and timer completion, even when the App is in the background. This may include the use of exact alarms to ensure precise timing for your activities.
+- **Timezone Information:** Accessing your device's local timezone setting to ensure that notifications are scheduled accurately.
 - **Display and Power:** Managing screen brightness and preventing the device from entering sleep mode (Wakelock) during active timer sessions to ensure visibility.
 - **Audio:** Playing sound effects to notify you of timer events, such as section transitions and timer completion.
 - **Network Access:** Connecting to the internet to load advertisements and support essential app functions.
