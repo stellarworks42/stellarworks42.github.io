@@ -32,7 +32,7 @@ To provide its core functionality, the App requires access to certain device fea
 These permissions are used strictly to ensure the App functions as intended. We do not use these permissions to harvest personal information.
 
 ### 4. Children’s Privacy
-The App is intended for all ages. Since we do not collect any personal information from any user, we do not knowingly collect or maintain any data from children under the age of 13.
+The App is intended for users aged 13 and older. Since we do not collect any personal information from any user, we do not knowingly collect or maintain any data from children under the age of 13.
 
 ### 5. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
